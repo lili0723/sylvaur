@@ -1,5 +1,9 @@
+# *
 User-agent: *
 Allow: /
-Disallow: /api/
 
-Sitemap: https://www.your-domain.com/sitemap.xml
+# Host
+Host: https://sylvaur.cn
+
+# Sitemaps
+Sitemap: https://sylvaur.cn/sitemap.xml
