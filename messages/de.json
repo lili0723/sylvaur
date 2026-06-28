@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "title": "Heimtextilien & Modeaccessoires Guangzhou | OEM Lieferant",
+    "description": "Professioneller Textilhersteller in Guangzhou, spezialisiert auf Dekokissen und Modetücher. OEM-Anpassung, Export nach Südostasien, Europa & Neuseeland."
+  },
+  "nav": {
+    "home": "Startseite",
+    "homeSeries": "Heimkollektion",
+    "fashionAccessories": "Modeaccessoires",
+    "about": "Über Uns",
+    "certifications": "Zertifizierungen",
+    "contact": "Kontakt",
+    "getQuote": "Angebot Anfordern",
+    "menu": "Menü"
+  },
+  "home": {
+    "heroTitle": "Premium Heimtextilien & Modeaccessoires Lieferant aus Guangzhou",
+    "heroSubtitle": "Export nach Südostasien, Europa & Neuseeland | OEM-Anpassung Verfügbar",
+    "ctaQuote": "Angebot Anfordern",
+    "ctaExplore": "Produkte Entdecken",
+    "categories": {
+      "pillowsTitle": "Heimkollektion",
+      "pillowsDesc": "Dekorative Kissen, Polster und Heimtextil-Accessoires. Premium-Qualität, individuelle Designs verfügbar.",
+      "scarvesTitle": "Modeaccessoires",
+      "scarvesDesc": "Elegante Tücher, Schals und Modeaccessoires. OEM/ODM mit niedriger MOQ für globale Käufer.",
+      "viewMore": "Kollektion Ansehen"
+    },
+    "featuredTitle": "Empfohlene Produkte",
+    "featuredSubtitle": "Unsere beliebtesten Artikel, von Käufern weltweit geschätzt",
+    "trustTitle": "Warum Uns Wählen",
+    "trustItems": [
+      {
+        "title": "Guangzhou Lieferkette",
+        "desc": "Im Herzen des chinesischen Textilzentrums gelegen, mit direktem Zugang zu Premium-Materialien und erfahrenen Handwerkern."
+      },
+      {
+        "title": "OEM / ODM Expertise",
+        "desc": "Flexible Anpassung von Design, Material, Größe und Verpackung. Schnelle Bemusterung in 3-7 Tagen."
+      },
+      {
+        "title": "Qualitätsgarantie",
+        "desc": "OEKO-TEX, ISO zertifiziert. Strenge Qualitätskontrolle in jeder Produktionsphase."
+      },
+      {
+        "title": "Zuverlässiger Export",
+        "desc": "FOB Guangzhou Bedingungen. Schnelle LCL-Verschiffung nach Südostasien (8-17 Tage), zuverlässige globale Logistik."
+      }
+    ],
+    "ctaBottomTitle": "Bereit für Ihre Bestellung?",
+    "ctaBottomDesc": "Kontaktieren Sie uns noch heute für ein kostenloses Angebot. Wir antworten innerhalb von 24 Stunden.",
+    "ctaBottomButton": "Jetzt Kontaktieren",
+    "viewAll": "Alle Anzeigen"
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "pillows": "Dekokissen",
+    "scarves": "Modetücher",
+    "specifications": "Spezifikationen",
+    "material": "Material",
+    "size": "Größe",
+    "color": "Farbe",
+    "moq": "MOQ",
+    "customization": "Anpassungsoptionen",
+    "inquiry": "Jetzt Anfragen",
+    "relatedProducts": "Ähnliche Produkte",
+    "negotiable": "Alle Spezifikationen sind verhandelbar — kontaktieren Sie uns für Ihre Anforderungen.",
+    "breadcrumbHome": "Startseite",
+    "noProducts": "Keine Produkte gefunden.",
+    "categoryDesc": {
+      "pillows": "Premium Dekokissen für Zuhause und Gastgewerbe. Individuelle Größen, Materialien und Muster verfügbar.",
+      "scarves": "Elegante Modetücher und Schals. OEM-Designs mit verschiedenen Materialien wie Seide, Baumwolle und Mischgewebe."
+    }
+  },
+  "about": {
+    "title": "Über Uns",
+    "subtitle": "Ihr Vertrauenswürdiger Textilpartner in Guangzhou",
+    "intro": "Mit Sitz in Guangzhou, Guangdong — dem Herzen des chinesischen Textilproduktionszentrums — sind wir spezialisiert auf die Produktion und den Export von Premium-Heimtextilien und Modeaccessoires für globale B2B-Käufer.",
+    "factory": "Unsere Lieferkette",
+    "factoryDesc": "Wir arbeiten mit über 10 geprüften Fabriken im Textilviertel von Guangzhou zusammen. Jeder Partner wird auf Qualität und Liefertreue auditiert. Gesamtkapazität über 2 Mio. Einheiten/Jahr.",
+    "team": "Unser Team",
+    "teamDesc": "Erfahrene Fachleute, die sich der Lieferung von Qualitätsprodukten und außergewöhnlichem Service für unsere internationalen Kunden widmen.",
+    "stats": [
+      {
+        "label": "Jahre Erfahrung",
+        "value": "15+"
+      },
+      {
+        "label": "Exportländer",
+        "value": "30+"
+      },
+      {
+        "label": "Partnerfabriken",
+        "value": "10+"
+      },
+      {
+        "label": "Kundenzufriedenheit",
+        "value": "98%"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Zertifizierungen & Qualitätsstandards",
+    "subtitle": "Unser Engagement für Qualität und Compliance",
+    "ctaText": "Benötigen Sie spezifische Zertifizierungsdokumente? Wir stellen Zertifikate auf Anfrage zur Verfügung.",
+    "ctaButton": "Zertifikate Anfordern",
+    "items": [
+      {
+        "name": "ISO 9001:2015",
+        "desc": "Qualitätsmanagement-Zertifizierung, die konsistente Produktqualität und Kundenzufriedenheit gewährleistet."
+      },
+      {
+        "name": "OEKO-TEX Standard 100",
+        "desc": "Zertifiziert frei von Schadstoffen. Unerlässlich für den europäischen Marktzugang."
+      },
+      {
+        "name": "CE-Kennzeichnung",
+        "desc": "Konformität mit den EU-Anforderungen an Gesundheit, Sicherheit und Umwelt."
+      },
+      {
+        "name": "SGS-Prüfung",
+        "desc": "Qualitätsüberprüfung durch Dritte und Produktprüfberichte verfügbar."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir freuen uns auf Ihre Nachricht. Schreiben Sie uns und wir antworten innerhalb von 24 Stunden.",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "company": "Firmenname",
+      "phone": "Telefon (Optional)",
+      "productInterest": "Produktinteresse",
+      "message": "Ihre Nachricht",
+      "productInterestPlaceholder": "Produktkategorie wählen...",
+      "productInterestOption1": "Dekokissen / Heimkollektion",
+      "productInterestOption2": "Modetücher / Accessoires",
+      "productInterestOption3": "Beide Kategorien",
+      "productInterestOption4": "Andere / Individuelle Anfrage",
+      "submit": "Nachricht Senden",
+      "submitting": "Wird Gesendet...",
+      "success": "Nachricht erfolgreich gesendet! Wir werden uns innerhalb von 24 Stunden bei Ihnen melden.",
+      "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns per WhatsApp."
+    },
+    "whatsapp": "Chat auf WhatsApp",
+    "responseTime": "Wir antworten in der Regel innerhalb von 1-2 Stunden während der Geschäftszeiten.",
+    "email": "E-Mail Senden",
+    "address": "Guangzhou, Guangdong, China"
+  },
+  "footer": {
+    "companyDesc": "Premium Heimtextilien und Modeaccessoires Lieferant mit Sitz in Guangzhou, China. Wir bedienen globale B2B-Käufer mit Qualität, Vertrauen und wettbewerbsfähigen Preisen.",
+    "quickLinks": "Schnellzugriff",
+    "contactInfo": "Kontaktinformationen",
+    "followUs": "Folgen Sie Uns",
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "pages": {
+    "about": {
+      "title": "Über Uns",
+      "description": "Professioneller Textilhersteller in Guangzhou, spezialisiert auf Dekokissen und Modetücher. OEM-Anpassung, Export nach Südostasien, Europa & Neuseeland."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Professioneller Textilhersteller in Guangzhou, spezialisiert auf Dekokissen und Modetücher. OEM-Anpassung, Export nach Südostasien, Europa & Neuseeland."
+    },
+    "products": {
+      "title": "Unsere Produkte",
+      "description": "Professioneller Textilhersteller in Guangzhou, spezialisiert auf Dekokissen und Modetücher. OEM-Anpassung, Export nach Südostasien, Europa & Neuseeland."
+    },
+    "pillows": {
+      "title": "Dekokissen",
+      "description": "Premium Dekokissen für Zuhause und Gastgewerbe. Individuelle Größen, Materialien und Muster verfügbar."
+    },
+    "scarves": {
+      "title": "Modetücher",
+      "description": "Elegante Modetücher und Schals. OEM-Designs mit verschiedenen Materialien wie Seide, Baumwolle und Mischgewebe."
+    },
+    "certifications": {
+      "title": "Zertifizierungen & Qualitätsstandards",
+      "description": "Unser Engagement für Qualität und Compliance"
+    },
+    "notFound": {
+      "title": "Keine Produkte gefunden."
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "title": "Sylvaur — 优质家居纺织品与时尚配件 | OEM/ODM供应商",
+    "description": "专业纺织品采购伙伴，位于中国纺织核心产地，主营优质装饰抱枕与时尚围巾。小批量起订，支持OEM/ODM，出口东南亚、欧洲及全球多地。"
+  },
+  "pages": {
+    "about": { "title": "关于我们", "description": "了解我们的纺织品采购团队、供应链网络及15年出口经验。" },
+    "contact": { "title": "联系我们", "description": "询价或产品咨询，WhatsApp和邮件支持，24小时内回复。" },
+    "products": { "title": "产品展示", "description": "浏览抱枕和围巾全系列产品，服务全球B2B买家。" },
+    "pillows": { "title": "抱枕系列", "description": "优质装饰抱枕，适用于家居与酒店，支持定制尺寸与材质。" },
+    "scarves": { "title": "围巾系列", "description": "精美丝绸与棉混纺围巾，OEM设计，低起订量，全球出口。" },
+    "certifications": { "title": "认证与质量标准", "description": "ISO 9001、OEKO-TEX、CE认证纺织品，SGS第三方检测。" },
+    "notFound": { "title": "产品未找到" }
+  },
+  "nav": {
+    "home": "首页",
+    "homeSeries": "家居系列",
+    "fashionAccessories": "时尚配件",
+    "about": "关于我们",
+    "certifications": "认证资质",
+    "contact": "联系我们",
+    "getQuote": "获取报价",
+    "menu": "菜单"
+  },
+  "home": {
+    "heroTitle": "Sylvaur — 优质家居纺织品与时尚配件",
+    "heroSubtitle": "优质家居纺织品与时尚配件 — 中国纺织核心产地直供，服务全球买家",
+    "ctaQuote": "获取报价",
+    "ctaExplore": "浏览产品",
+    "categories": {
+      "pillowsTitle": "家居系列",
+      "pillowsDesc": "优质装饰抱枕、靠垫及家居纺织品。采用高品质面料，设计时尚，价格极具竞争力。",
+      "scarvesTitle": "时尚配件",
+      "scarvesDesc": "精美丝巾、披肩及时尚配件。支持小批量起订及定制，服务全球买家。",
+      "viewMore": "查看系列"
+    },
+    "featuredTitle": "精选产品",
+    "featuredSubtitle": "全球买家信赖的热门产品",
+    "trustTitle": "为什么选择我们",
+    "trustItems": [
+      {
+        "title": "广州供应链优势",
+        "desc": "位于中国纺织产业核心——广州，深度对接优质原材料与精湛工艺。"
+      },
+      {
+        "title": "采购与品控",
+        "desc": "严格筛选工厂，出货前全面检验，并通过合作工厂网络提供灵活定制服务。"
+      },
+      {
+        "title": "品质保证",
+        "desc": "通过OEKO-TEX、ISO等多项认证，每个生产环节严格把控品质。"
+      },
+      {
+        "title": "可靠出口物流",
+        "desc": "广州FOB条款，支持全球出口，东南亚LCL海运8-17天快速送达。"
+      }
+    ],
+    "ctaBottomTitle": "准备开始下单？",
+    "ctaBottomDesc": "立即联系我们获取免费报价，24小时内回复。",
+    "ctaBottomButton": "立即联系我们",
+    "viewAll": "查看全部产品"
+  },
+  "products": {
+    "title": "产品展示",
+    "pillows": "抱枕系列",
+    "scarves": "围巾系列",
+    "specifications": "产品规格",
+    "material": "材质",
+    "size": "尺寸",
+    "color": "颜色选项",
+    "moq": "起订量",
+    "customization": "定制选项",
+    "inquiry": "立即询价",
+    "relatedProducts": "相关产品",
+    "noProducts": "暂无产品。",
+    "negotiable": "以上规格均可协商调整，欢迎联系我们沟通您的具体需求。",
+    "breadcrumbHome": "首页",
+    "categoryDesc": {
+      "pillows": "适用于家居与酒店的高品质装饰抱枕，支持定制尺寸、面料、颜色与图案。",
+      "scarves": "精美时尚围巾与披肩，提供丝绸、棉及混纺材质，支持OEM/ODM定制，小批量起订。"
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "值得信赖的纺织品合作伙伴",
+    "intro": "扎根中国纺织业核心地带，专注于为全球B2B买家提供优质家居纺织品和时尚配件。凭借强大的本地供应链与专业的采购品控团队，为您提供可靠且高性价比的一站式服务。",
+    "factory": "供应链优势",
+    "factoryDesc": "与纺织商圈10+家严格审核的工厂建立长期合作关系，年产能超200万件，灵活调配满足您的订单需求。",
+    "team": "我们的团队",
+    "services": {
+      "source": { "title": "寻源", "desc": "帮你筛选对接最合适的工厂。" },
+      "inspect": { "title": "验货", "desc": "出货前现场检验，品质把关。" },
+      "ship": { "title": "物流", "desc": "FOB广州，可靠送达目的港。" },
+      "support": { "title": "沟通", "desc": "专属对接，几小时内回复。" }
+    },
+    "teamDesc": "经验丰富的本地采购团队，从面料选择到出货检验，全程严格把控，确保每一单都符合您的标准。",
+    "stats": [
+      { "label": "行业经验", "value": "15+ 年" },
+      { "label": "出口国家", "value": "30+ 个" },
+      { "label": "合作工厂", "value": "10+ 家" },
+      { "label": "客户满意度", "value": "98%" }
+    ]
+  },
+  "certifications": {
+    "title": "认证与质量标准",
+    "subtitle": "我们对品质和合规的承诺",
+    "ctaText": "需要特定的认证文件？我们可以根据要求提供证书。",
+    "ctaButton": "索取证书",
+    "items": [
+      {
+        "name": "ISO 9001:2015",
+        "desc": "质量管理体系认证，确保产品质量一致性和客户满意度。"
+      },
+      {
+        "name": "OEKO-TEX Standard 100",
+        "desc": "认证产品不含有害物质，是进入欧洲市场的必要条件。"
+      },
+      {
+        "name": "CE 标志",
+        "desc": "符合欧盟健康、安全和环保要求。"
+      },
+      {
+        "name": "SGS 检测",
+        "desc": "提供第三方质量验证和产品检测报告。"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "期待您的来信。发送消息，我们会在24小时内回复。",
+    "form": {
+      "name": "您的姓名",
+      "email": "电子邮箱",
+      "company": "公司名称",
+      "phone": "电话（选填）",
+      "productInterest": "感兴趣的产品",
+      "message": "留言内容",
+      "productInterestPlaceholder": "请选择产品类别...",
+      "productInterestOption1": "抱枕 / 家居系列",
+      "productInterestOption2": "围巾 / 时尚配件",
+      "productInterestOption3": "两者都有",
+      "productInterestOption4": "其他 / 定制咨询",
+      "submit": "发送消息",
+      "submitting": "发送中...",
+      "success": "消息发送成功！我们将在24小时内回复您。",
+      "error": "发送失败，请重试或通过WhatsApp联系我们。"
+    },
+    "whatsapp": "WhatsApp 在线沟通",
+    "responseTime": "工作时间通常1-2小时内回复。",
+    "email": "发送邮件",
+    "address": "中国广东省广州市"
+  },
+  "footer": {
+    "companyDesc": "专业外贸采购伙伴，专注家居纺织品与时尚配件。助力全球买家对接优质工厂，提供品控、物流及沟通支持——让你专注业务增长。",
+    "quickLinks": "快速链接",
+    "contactInfo": "联系方式",
+    "followUs": "关注我们",
+    "copyright": "© 2026 版权所有。"
+  }
+}

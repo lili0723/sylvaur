@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "title": "Textiles para el Hogar y Accesorios de Moda Guangzhou | Proveedor OEM",
+    "description": "Fabricante textil profesional en Guangzhou, especializado en cojines decorativos y bufandas de moda. Personalización OEM, exportación al Sudeste Asiático, Europa y Nueva Zelanda."
+  },
+  "nav": {
+    "home": "Inicio",
+    "homeSeries": "Colección Hogar",
+    "fashionAccessories": "Accesorios de Moda",
+    "about": "Nosotros",
+    "certifications": "Certificaciones",
+    "contact": "Contacto",
+    "getQuote": "Solicitar Cotización",
+    "menu": "Menú"
+  },
+  "home": {
+    "heroTitle": "Proveedor Premium de Textiles para el Hogar y Accesorios de Moda de Guangzhou",
+    "heroSubtitle": "Exportación al Sudeste Asiático, Europa y Nueva Zelanda | Personalización OEM Disponible",
+    "ctaQuote": "Solicitar Cotización",
+    "ctaExplore": "Explorar Productos",
+    "categories": {
+      "pillowsTitle": "Colección Hogar",
+      "pillowsDesc": "Cojines decorativos, cojines de asiento y accesorios textiles para el hogar. Calidad premium, diseños personalizados disponibles.",
+      "scarvesTitle": "Accesorios de Moda",
+      "scarvesDesc": "Bufandas elegantes, chales y accesorios de moda. OEM/ODM con MOQ bajo para compradores globales.",
+      "viewMore": "Ver Colección"
+    },
+    "featuredTitle": "Productos Destacados",
+    "featuredSubtitle": "Nuestros artículos más populares, confiables para compradores de todo el mundo",
+    "trustTitle": "Por Qué Elegirnos",
+    "trustItems": [
+      {
+        "title": "Cadena de Suministro de Guangzhou",
+        "desc": "Ubicados en el corazón del centro textil de China con acceso directo a materiales premium y artesanía especializada."
+      },
+      {
+        "title": "Experiencia OEM / ODM",
+        "desc": "Personalización flexible en diseño, material, tamaño y embalaje. Muestreo rápido en 3-7 días."
+      },
+      {
+        "title": "Calidad Garantizada",
+        "desc": "Certificación OEKO-TEX, ISO. Riguroso control de calidad en cada etapa de producción."
+      },
+      {
+        "title": "Exportación Confiable",
+        "desc": "Términos FOB Guangzhou. Envío LCL rápido al Sudeste Asiático (8-17 días), logística global confiable."
+      }
+    ],
+    "ctaBottomTitle": "¿Listo para Comenzar su Pedido?",
+    "ctaBottomDesc": "Contáctenos hoy para una cotización gratuita. Respondemos dentro de las 24 horas.",
+    "ctaBottomButton": "Contáctenos Ahora",
+    "viewAll": "Ver Todo"
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "pillows": "Cojines Decorativos",
+    "scarves": "Bufandas de Moda",
+    "specifications": "Especificaciones",
+    "material": "Material",
+    "size": "Tamaño",
+    "color": "Color",
+    "moq": "MOQ",
+    "customization": "Opciones de Personalización",
+    "inquiry": "Consultar Ahora",
+    "relatedProducts": "Productos Relacionados",
+    "negotiable": "Todas las especificaciones son negociables — contáctenos para discutir sus requisitos.",
+    "breadcrumbHome": "Inicio",
+    "noProducts": "No se encontraron productos.",
+    "categoryDesc": {
+      "pillows": "Cojines decorativos premium para hogar y hostelería. Tamaños, materiales y patrones personalizados disponibles.",
+      "scarves": "Bufandas de moda elegantes y chales. Diseños OEM con varios materiales incluyendo seda, algodón y mezclas."
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Su Socio Textil de Confianza en Guangzhou",
+    "intro": "Con sede en Guangzhou, Guangdong — el corazón del centro de fabricación textil de China — nos especializamos en producir y exportar textiles para el hogar premium y accesorios de moda para compradores B2B globales.",
+    "factory": "Nuestra Cadena de Suministro",
+    "factoryDesc": "Colaboramos con más de 10 fábricas verificadas en el distrito textil de Guangzhou. Cada socio es auditado por calidad y plazos de entrega. Capacidad total superior a 2 millones de unidades/año.",
+    "team": "Nuestro Equipo",
+    "teamDesc": "Profesionales experimentados dedicados a ofrecer productos de calidad y un servicio excepcional a nuestros clientes internacionales.",
+    "stats": [
+      {
+        "label": "Años de Experiencia",
+        "value": "15+"
+      },
+      {
+        "label": "Países de Exportación",
+        "value": "30+"
+      },
+      {
+        "label": "Fábricas Socias",
+        "value": "10+"
+      },
+      {
+        "label": "Satisfacción del Cliente",
+        "value": "98%"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certificaciones y Estándares de Calidad",
+    "subtitle": "Nuestro compromiso con la calidad y el cumplimiento normativo",
+    "ctaText": "¿Necesita documentación de certificación específica? Podemos proporcionar certificados a solicitud.",
+    "ctaButton": "Solicitar Certificados",
+    "items": [
+      {
+        "name": "ISO 9001:2015",
+        "desc": "Certificación del sistema de gestión de calidad que garantiza una calidad constante del producto y la satisfacción del cliente."
+      },
+      {
+        "name": "OEKO-TEX Standard 100",
+        "desc": "Certificado libre de sustancias nocivas. Esencial para el acceso al mercado europeo."
+      },
+      {
+        "name": "Marcado CE",
+        "desc": "Cumplimiento de los requisitos de salud, seguridad y medio ambiente de la UE."
+      },
+      {
+        "name": "Pruebas SGS",
+        "desc": "Verificación de calidad por terceros e informes de pruebas de productos disponibles."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Nos encantaría saber de usted. Envíenos un mensaje y le responderemos dentro de las 24 horas.",
+    "form": {
+      "name": "Su Nombre",
+      "email": "Correo Electrónico",
+      "company": "Nombre de la Empresa",
+      "phone": "Teléfono (Opcional)",
+      "productInterest": "Producto de Interés",
+      "message": "Su Mensaje",
+      "productInterestPlaceholder": "Seleccione una categoría...",
+      "productInterestOption1": "Cojines Decorativos / Colección Hogar",
+      "productInterestOption2": "Bufandas de Moda / Accesorios",
+      "productInterestOption3": "Ambas Categorías",
+      "productInterestOption4": "Otro / Consulta Personalizada",
+      "submit": "Enviar Mensaje",
+      "submitting": "Enviando...",
+      "success": "¡Mensaje enviado con éxito! Le contactaremos dentro de las 24 horas.",
+      "error": "Algo salió mal. Por favor intente de nuevo o contáctenos por WhatsApp."
+    },
+    "whatsapp": "Chatear en WhatsApp",
+    "responseTime": "Normalmente respondemos dentro de 1-2 horas en horario laboral.",
+    "email": "Enviar Correo",
+    "address": "Guangzhou, Guangdong, China"
+  },
+  "footer": {
+    "companyDesc": "Proveedor premium de textiles para el hogar y accesorios de moda con sede en Guangzhou, China. Sirviendo a compradores B2B globales con calidad, confianza y precios competitivos.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactInfo": "Información de Contacto",
+    "followUs": "Síguenos",
+    "copyright": "Todos los derechos reservados."
+  },
+  "pages": {
+    "about": {
+      "title": "Sobre Nosotros",
+      "description": "Fabricante textil profesional en Guangzhou, especializado en cojines decorativos y bufandas de moda. Personalización OEM, exportación al Sudeste Asiático, Europa y Nueva Zelanda."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "description": "Fabricante textil profesional en Guangzhou, especializado en cojines decorativos y bufandas de moda. Personalización OEM, exportación al Sudeste Asiático, Europa y Nueva Zelanda."
+    },
+    "products": {
+      "title": "Nuestros Productos",
+      "description": "Fabricante textil profesional en Guangzhou, especializado en cojines decorativos y bufandas de moda. Personalización OEM, exportación al Sudeste Asiático, Europa y Nueva Zelanda."
+    },
+    "pillows": {
+      "title": "Cojines Decorativos",
+      "description": "Cojines decorativos premium para hogar y hostelería. Tamaños, materiales y patrones personalizados disponibles."
+    },
+    "scarves": {
+      "title": "Bufandas de Moda",
+      "description": "Bufandas de moda elegantes y chales. Diseños OEM con varios materiales incluyendo seda, algodón y mezclas."
+    },
+    "certifications": {
+      "title": "Certificaciones y Estándares de Calidad",
+      "description": "Nuestro compromiso con la calidad y el cumplimiento normativo"
+    },
+    "notFound": {
+      "title": "No se encontraron productos."
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "title": "Tekstil Rumah & Aksesori Fashion Guangzhou | Pemasok OEM",
+    "description": "Produsen tekstil profesional di Guangzhou, spesialis bantal dekoratif dan syal fashion. Kustomisasi OEM, ekspor ke Asia Tenggara, Eropa & Selandia Baru."
+  },
+  "nav": {
+    "home": "Beranda",
+    "homeSeries": "Koleksi Rumah",
+    "fashionAccessories": "Aksesori Fashion",
+    "about": "Tentang Kami",
+    "certifications": "Sertifikasi",
+    "contact": "Kontak",
+    "getQuote": "Dapatkan Penawaran",
+    "menu": "Menu"
+  },
+  "home": {
+    "heroTitle": "Pemasok Tekstil Rumah & Aksesori Fashion Premium Guangzhou",
+    "heroSubtitle": "Ekspor ke Asia Tenggara, Eropa & Selandia Baru | Tersedia Kustomisasi OEM",
+    "ctaQuote": "Dapatkan Penawaran",
+    "ctaExplore": "Jelajahi Produk",
+    "categories": {
+      "pillowsTitle": "Koleksi Rumah",
+      "pillowsDesc": "Bantal dekoratif, bantal duduk, dan aksesori tekstil rumah. Kualitas premium, tersedia desain kustom.",
+      "scarvesTitle": "Aksesori Fashion",
+      "scarvesDesc": "Syal elegan, selendang, dan aksesori fashion. OEM/ODM dengan MOQ rendah untuk pembeli global.",
+      "viewMore": "Lihat Koleksi"
+    },
+    "featuredTitle": "Produk Unggulan",
+    "featuredSubtitle": "Produk terpopuler kami yang dipercaya oleh pembeli di seluruh dunia",
+    "trustTitle": "Mengapa Memilih Kami",
+    "trustItems": [
+      {
+        "title": "Rantai Pasokan Guangzhou",
+        "desc": "Berlokasi di jantung pusat tekstil China dengan akses langsung ke bahan premium dan pengrajin terampil."
+      },
+      {
+        "title": "Keahlian OEM / ODM",
+        "desc": "Kustomisasi fleksibel pada desain, bahan, ukuran, dan kemasan. Pengambilan sampel cepat dalam 3-7 hari."
+      },
+      {
+        "title": "Jaminan Kualitas",
+        "desc": "Bersertifikat OEKO-TEX, ISO. Kontrol kualitas ketat di setiap tahap produksi."
+      },
+      {
+        "title": "Ekspor Andal",
+        "desc": "Ketentuan FOB Guangzhou. Pengiriman LCL cepat ke Asia Tenggara (8-17 hari), logistik global yang andal."
+      }
+    ],
+    "ctaBottomTitle": "Siap Memulai Pesanan Anda?",
+    "ctaBottomDesc": "Hubungi kami hari ini untuk penawaran gratis. Kami merespons dalam 24 jam.",
+    "ctaBottomButton": "Hubungi Kami Sekarang",
+    "viewAll": "Lihat Semua"
+  },
+  "products": {
+    "title": "Produk Kami",
+    "pillows": "Bantal Dekoratif",
+    "scarves": "Syal Fashion",
+    "specifications": "Spesifikasi",
+    "material": "Bahan",
+    "size": "Ukuran",
+    "color": "Warna",
+    "moq": "MOQ",
+    "customization": "Opsi Kustomisasi",
+    "inquiry": "Tanyakan Sekarang",
+    "relatedProducts": "Produk Terkait",
+    "negotiable": "Semua spesifikasi dapat dinegosiasikan — hubungi kami untuk berdiskusi.",
+    "breadcrumbHome": "Beranda",
+    "noProducts": "Tidak ada produk ditemukan.",
+    "categoryDesc": {
+      "pillows": "Bantal dekoratif premium untuk rumah dan perhotelan. Ukuran, bahan, dan pola kustom tersedia.",
+      "scarves": "Syal fashion elegan dan selendang. Desain OEM dengan berbagai bahan termasuk sutra, katun, dan campuran."
+    }
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "subtitle": "Mitra Tekstil Tepercaya Anda di Guangzhou",
+    "intro": "Berbasis di Guangzhou, Guangdong — pusat manufaktur tekstil China — kami mengkhususkan diri dalam memproduksi dan mengekspor tekstil rumah premium dan aksesori fashion untuk pembeli B2B global.",
+    "factory": "Rantai Pasokan Kami",
+    "factoryDesc": "Kami bermitra dengan 10+ pabrik terverifikasi di distrik tekstil Guangzhou. Setiap mitra telah diaudit kualitas dan pengirimannya. Total kapasitas melebihi 2 juta unit/tahun.",
+    "team": "Tim Kami",
+    "teamDesc": "Profesional berpengalaman yang berdedikasi untuk memberikan produk berkualitas dan layanan luar biasa kepada klien internasional kami.",
+    "stats": [
+      {
+        "label": "Pengalaman",
+        "value": "15+ Tahun"
+      },
+      {
+        "label": "Negara Ekspor",
+        "value": "30+"
+      },
+      {
+        "label": "Pabrik Mitra",
+        "value": "10+"
+      },
+      {
+        "label": "Kepuasan Klien",
+        "value": "98%"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Sertifikasi & Standar Kualitas",
+    "subtitle": "Komitmen kami terhadap kualitas dan kepatuhan",
+    "ctaText": "Butuh dokumentasi sertifikasi tertentu? Kami dapat menyediakan sertifikat berdasarkan permintaan.",
+    "ctaButton": "Minta Sertifikat",
+    "items": [
+      {
+        "name": "ISO 9001:2015",
+        "desc": "Sertifikasi sistem manajemen mutu yang memastikan kualitas produk yang konsisten dan kepuasan pelanggan."
+      },
+      {
+        "name": "OEKO-TEX Standard 100",
+        "desc": "Tersertifikasi bebas dari zat berbahaya. Penting untuk akses pasar Eropa."
+      },
+      {
+        "name": "Tanda CE",
+        "desc": "Kepatuhan terhadap persyaratan kesehatan, keselamatan, dan lingkungan UE."
+      },
+      {
+        "name": "Pengujian SGS",
+        "desc": "Verifikasi kualitas pihak ketiga dan laporan pengujian produk tersedia."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Kami senang mendengar dari Anda. Kirim pesan dan kami akan merespons dalam 24 jam.",
+    "form": {
+      "name": "Nama Anda",
+      "email": "Alamat Email",
+      "company": "Nama Perusahaan",
+      "phone": "Telepon (Opsional)",
+      "productInterest": "Minat Produk",
+      "message": "Pesan Anda",
+      "productInterestPlaceholder": "Pilih kategori produk...",
+      "productInterestOption1": "Bantal Dekoratif / Koleksi Rumah",
+      "productInterestOption2": "Syal Fashion / Aksesori",
+      "productInterestOption3": "Kedua Kategori",
+      "productInterestOption4": "Lainnya / Pertanyaan Kustom",
+      "submit": "Kirim Pesan",
+      "submitting": "Mengirim...",
+      "success": "Pesan berhasil dikirim! Kami akan menghubungi Anda dalam 24 jam.",
+      "error": "Terjadi kesalahan. Silakan coba lagi atau hubungi kami melalui WhatsApp."
+    },
+    "whatsapp": "Chat di WhatsApp",
+    "responseTime": "Kami biasanya merespons dalam 1-2 jam selama jam kerja.",
+    "email": "Kirim Email",
+    "address": "Guangzhou, Guangdong, Tiongkok"
+  },
+  "footer": {
+    "companyDesc": "Pemasok tekstil rumah dan aksesori fashion premium di Guangzhou, Tiongkok. Melayani pembeli B2B global dengan kualitas, kepercayaan, dan harga kompetitif.",
+    "quickLinks": "Tautan Cepat",
+    "contactInfo": "Info Kontak",
+    "followUs": "Ikuti Kami",
+    "copyright": "Hak cipta dilindungi undang-undang."
+  },
+  "pages": {
+    "about": {
+      "title": "Tentang Kami",
+      "description": "Produsen tekstil profesional di Guangzhou, spesialis bantal dekoratif dan syal fashion. Kustomisasi OEM, ekspor ke Asia Tenggara, Eropa & Selandia Baru."
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "description": "Produsen tekstil profesional di Guangzhou, spesialis bantal dekoratif dan syal fashion. Kustomisasi OEM, ekspor ke Asia Tenggara, Eropa & Selandia Baru."
+    },
+    "products": {
+      "title": "Produk Kami",
+      "description": "Produsen tekstil profesional di Guangzhou, spesialis bantal dekoratif dan syal fashion. Kustomisasi OEM, ekspor ke Asia Tenggara, Eropa & Selandia Baru."
+    },
+    "pillows": {
+      "title": "Bantal Dekoratif",
+      "description": "Bantal dekoratif premium untuk rumah dan perhotelan. Ukuran, bahan, dan pola kustom tersedia."
+    },
+    "scarves": {
+      "title": "Syal Fashion",
+      "description": "Syal fashion elegan dan selendang. Desain OEM dengan berbagai bahan termasuk sutra, katun, dan campuran."
+    },
+    "certifications": {
+      "title": "Sertifikasi & Standar Kualitas",
+      "description": "Komitmen kami terhadap kualitas dan kepatuhan"
+    },
+    "notFound": {
+      "title": "Tidak ada produk ditemukan."
+    }
+  }
+}

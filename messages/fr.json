@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "title": "Textiles Maison & Accessoires Mode Guangzhou | Fournisseur OEM",
+    "description": "Fabricant textile professionnel à Guangzhou, spécialisé en coussins décoratifs et foulards mode. Personnalisation OEM, export vers l'Asie du Sud-Est, l'Europe et la Nouvelle-Zélande."
+  },
+  "nav": {
+    "home": "Accueil",
+    "homeSeries": "Collection Maison",
+    "fashionAccessories": "Accessoires Mode",
+    "about": "À Propos",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "getQuote": "Demander un Devis",
+    "menu": "Menu"
+  },
+  "home": {
+    "heroTitle": "Fournisseur Premium de Textiles Maison & Accessoires Mode à Guangzhou",
+    "heroSubtitle": "Export vers l'Asie du Sud-Est, l'Europe et la Nouvelle-Zélande | Personnalisation OEM Disponible",
+    "ctaQuote": "Demander un Devis",
+    "ctaExplore": "Explorer les Produits",
+    "categories": {
+      "pillowsTitle": "Collection Maison",
+      "pillowsDesc": "Coussins décoratifs, coussins d'assise et accessoires textiles maison. Qualité premium, designs personnalisés disponibles.",
+      "scarvesTitle": "Accessoires Mode",
+      "scarvesDesc": "Foulards élégants, étoles et accessoires mode. OEM/ODM avec faible MOQ pour acheteurs internationaux.",
+      "viewMore": "Voir la Collection"
+    },
+    "featuredTitle": "Produits Vedettes",
+    "featuredSubtitle": "Nos articles les plus populaires appréciés par les acheteurs du monde entier",
+    "trustTitle": "Pourquoi Nous Choisir",
+    "trustItems": [
+      {
+        "title": "Chaîne d'Approvisionnement de Guangzhou",
+        "desc": "Situé au cœur du centre textile chinois avec un accès direct aux matériaux premium et à un savoir-faire qualifié."
+      },
+      {
+        "title": "Expertise OEM / ODM",
+        "desc": "Personnalisation flexible du design, des matériaux, des dimensions et de l'emballage. Échantillonnage rapide en 3-7 jours."
+      },
+      {
+        "title": "Qualité Garantie",
+        "desc": "Certifié OEKO-TEX, ISO. Contrôle qualité rigoureux à chaque étape de la production."
+      },
+      {
+        "title": "Export Fiable",
+        "desc": "Conditions FOB Guangzhou. Expédition LCL rapide vers l'Asie du Sud-Est (8-17 jours), logistique mondiale fiable."
+      }
+    ],
+    "ctaBottomTitle": "Prêt à Passer Commande ?",
+    "ctaBottomDesc": "Contactez-nous dès aujourd'hui pour un devis gratuit. Nous répondons sous 24 heures.",
+    "ctaBottomButton": "Contactez-Nous",
+    "viewAll": "Voir Tout"
+  },
+  "products": {
+    "title": "Nos Produits",
+    "pillows": "Coussins Décoratifs",
+    "scarves": "Foulards Mode",
+    "specifications": "Spécifications",
+    "material": "Matériau",
+    "size": "Taille",
+    "color": "Couleur",
+    "moq": "MOQ",
+    "customization": "Options de Personnalisation",
+    "inquiry": "Demander Maintenant",
+    "relatedProducts": "Produits Associés",
+    "negotiable": "Toutes les spécifications sont négociables — contactez-nous pour en discuter.",
+    "breadcrumbHome": "Accueil",
+    "noProducts": "Aucun produit trouvé.",
+    "categoryDesc": {
+      "pillows": "Coussins décoratifs premium pour la maison et l'hôtellerie. Tailles, matériaux et motifs personnalisés disponibles.",
+      "scarves": "Foulards mode élégants et étoles. Designs OEM avec divers matériaux dont soie, coton et mélanges."
+    }
+  },
+  "about": {
+    "title": "À Propos",
+    "subtitle": "Votre Partenaire Textile de Confiance à Guangzhou",
+    "intro": "Basé à Guangzhou, Guangdong — le cœur du centre de fabrication textile chinois — nous sommes spécialisés dans la production et l'exportation de textiles maison premium et d'accessoires mode pour les acheteurs B2B internationaux.",
+    "factory": "Notre Chaîne d'Approvisionnement",
+    "factoryDesc": "Nous collaborons avec plus de 10 usines vérifiées dans le quartier textile de Guangzhou. Chaque partenaire est audité pour sa qualité et ses délais. Capacité totale supérieure à 2 millions d'unités/an.",
+    "team": "Notre Équipe",
+    "teamDesc": "Des professionnels expérimentés dédiés à fournir des produits de qualité et un service exceptionnel à nos clients internationaux.",
+    "stats": [
+      {
+        "label": "Années d'Expérience",
+        "value": "15+"
+      },
+      {
+        "label": "Pays d'Exportation",
+        "value": "30+"
+      },
+      {
+        "label": "Usines Partenaires",
+        "value": "10+"
+      },
+      {
+        "label": "Satisfaction Client",
+        "value": "98%"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications & Normes de Qualité",
+    "subtitle": "Notre engagement envers la qualité et la conformité",
+    "ctaText": "Besoin de documents de certification spécifiques ? Nous pouvons fournir des certificats sur demande.",
+    "ctaButton": "Demander des Certificats",
+    "items": [
+      {
+        "name": "ISO 9001:2015",
+        "desc": "Certification du système de management de la qualité garantissant une qualité de produit constante et la satisfaction client."
+      },
+      {
+        "name": "OEKO-TEX Standard 100",
+        "desc": "Certifié exempt de substances nocives. Essentiel pour l'accès au marché européen."
+      },
+      {
+        "name": "Marquage CE",
+        "desc": "Conformité aux exigences de santé, de sécurité et d'environnement de l'UE."
+      },
+      {
+        "name": "Tests SGS",
+        "desc": "Vérification de qualité par tiers et rapports de test de produits disponibles."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous serions ravis de vous entendre. Envoyez-nous un message et nous répondrons sous 24 heures.",
+    "form": {
+      "name": "Votre Nom",
+      "email": "Adresse E-mail",
+      "company": "Nom de l'Entreprise",
+      "phone": "Téléphone (Optionnel)",
+      "productInterest": "Produit Intéressé",
+      "message": "Votre Message",
+      "productInterestPlaceholder": "Sélectionnez une catégorie...",
+      "productInterestOption1": "Coussins Décoratifs / Collection Maison",
+      "productInterestOption2": "Foulards Mode / Accessoires",
+      "productInterestOption3": "Les Deux Catégories",
+      "productInterestOption4": "Autre / Demande Personnalisée",
+      "submit": "Envoyer le Message",
+      "submitting": "Envoi en Cours...",
+      "success": "Message envoyé avec succès ! Nous vous recontacterons sous 24 heures.",
+      "error": "Une erreur s'est produite. Veuillez réessayer ou nous contacter via WhatsApp."
+    },
+    "whatsapp": "Chatter sur WhatsApp",
+    "responseTime": "Nous répondons généralement dans les 1 à 2 heures pendant les heures ouvrables.",
+    "email": "Envoyer un E-mail",
+    "address": "Guangzhou, Guangdong, Chine"
+  },
+  "footer": {
+    "companyDesc": "Fournisseur premium de textiles maison et accessoires mode basé à Guangzhou, Chine. Au service des acheteurs B2B internationaux avec qualité, confiance et prix compétitifs.",
+    "quickLinks": "Liens Rapides",
+    "contactInfo": "Informations de Contact",
+    "followUs": "Suivez-Nous",
+    "copyright": "Tous droits réservés."
+  },
+  "pages": {
+    "about": {
+      "title": "À Propos",
+      "description": "Fabricant textile professionnel à Guangzhou, spécialisé en coussins décoratifs et foulards mode. Personnalisation OEM, export vers l'Asie du Sud-Est, l'Europe et la Nouvelle-Zélande."
+    },
+    "contact": {
+      "title": "Contactez-Nous",
+      "description": "Fabricant textile professionnel à Guangzhou, spécialisé en coussins décoratifs et foulards mode. Personnalisation OEM, export vers l'Asie du Sud-Est, l'Europe et la Nouvelle-Zélande."
+    },
+    "products": {
+      "title": "Nos Produits",
+      "description": "Fabricant textile professionnel à Guangzhou, spécialisé en coussins décoratifs et foulards mode. Personnalisation OEM, export vers l'Asie du Sud-Est, l'Europe et la Nouvelle-Zélande."
+    },
+    "pillows": {
+      "title": "Coussins Décoratifs",
+      "description": "Coussins décoratifs premium pour la maison et l'hôtellerie. Tailles, matériaux et motifs personnalisés disponibles."
+    },
+    "scarves": {
+      "title": "Foulards Mode",
+      "description": "Foulards mode élégants et étoles. Designs OEM avec divers matériaux dont soie, coton et mélanges."
+    },
+    "certifications": {
+      "title": "Certifications & Normes de Qualité",
+      "description": "Notre engagement envers la qualité et la conformité"
+    },
+    "notFound": {
+      "title": "Aucun produit trouvé."
+    }
+  }
+}

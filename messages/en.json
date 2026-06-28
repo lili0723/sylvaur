@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "title": "Sylvaur — Premium Home Textiles & Fashion Accessories | OEM/ODM Supplier",
+    "description": "Professional sourcing partner for premium throw pillows and fashion scarves, based in China's textile hub. Low MOQ, OEM/ODM service, reliable export to Southeast Asia, Europe, and beyond."
+  },
+  "pages": {
+    "about": { "title": "About Us", "description": "Learn about our textile sourcing team, supply chain, and 15+ years export experience from China's textile hub." },
+    "contact": { "title": "Contact Us", "description": "Get in touch for quotes or product inquiries. WhatsApp and email support — we reply within 24 hours." },
+    "products": { "title": "Our Products", "description": "Browse our range of throw pillows and fashion scarves for global B2B buyers." },
+    "pillows": { "title": "Throw Pillows", "description": "Premium decorative throw pillows for home and hospitality. Custom sizes and materials available." },
+    "scarves": { "title": "Fashion Scarves", "description": "Elegant silk and cotton-blend scarves. OEM designs, low MOQ, worldwide export." },
+    "certifications": { "title": "Certifications & Quality Standards", "description": "ISO 9001, OEKO-TEX, CE certified textiles. Third-party SGS tested." },
+    "notFound": { "title": "Product Not Found" }
+  },
+  "nav": {
+    "home": "Home",
+    "homeSeries": "Home Series",
+    "fashionAccessories": "Fashion Accessories",
+    "about": "About Us",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "getQuote": "Get a Quote",
+    "menu": "Menu"
+  },
+  "home": {
+    "heroTitle": "Sylvaur — Premium Home Textiles & Fashion Accessories",
+    "heroSubtitle": "Quality Home Textiles & Fashion Accessories — Direct from China's Textile Hub, Serving Buyers Worldwide",
+    "ctaQuote": "Get a Quote",
+    "ctaExplore": "Explore Products",
+    "categories": {
+      "pillowsTitle": "Home Series",
+      "pillowsDesc": "Premium decorative throw pillows, cushions, and home textiles. Made with high-quality materials and modern designs at competitive prices.",
+      "scarvesTitle": "Fashion Accessories",
+      "scarvesDesc": "Elegant silk scarves, wraps, and fashion accessories. Low MOQ, custom designs available for global buyers.",
+      "viewMore": "View Collection"
+    },
+    "featuredTitle": "Featured Products",
+    "featuredSubtitle": "Our most popular items trusted by buyers worldwide",
+    "trustTitle": "Why Choose Us",
+    "trustItems": [
+      {
+        "title": "Guangzhou Supply Chain",
+        "desc": "Located in the heart of China's textile hub with direct access to premium materials and skilled craftsmanship."
+      },
+      {
+        "title": "Sourcing & Quality Control",
+        "desc": "Rigorous factory screening, pre-shipment inspection, and full customization support through our verified partner factories."
+      },
+      {
+        "title": "Quality Assured",
+        "desc": "OEKO-TEX and ISO certified. Strict quality control throughout every production stage."
+      },
+      {
+        "title": "Reliable Export",
+        "desc": "FOB Guangzhou. Fast and reliable shipping worldwide, with LCL service to Southeast Asia in 8-17 days."
+      }
+    ],
+    "ctaBottomTitle": "Ready to Start Your Order?",
+    "ctaBottomDesc": "Contact us today for a free quote. We respond within 24 hours.",
+    "ctaBottomButton": "Contact Us Now",
+    "viewAll": "View All Products"
+  },
+  "products": {
+    "title": "Our Products",
+    "pillows": "Throw Pillows",
+    "scarves": "Fashion Scarves",
+    "specifications": "Specifications",
+    "material": "Material",
+    "size": "Size",
+    "color": "Color Options",
+    "moq": "MOQ",
+    "customization": "Customization Options",
+    "inquiry": "Inquire Now",
+    "relatedProducts": "Related Products",
+    "noProducts": "No products found.",
+    "negotiable": "All specifications are negotiable — contact us to discuss your requirements.",
+    "breadcrumbHome": "Home",
+    "categoryDesc": {
+      "pillows": "Premium decorative throw pillows for home and hospitality. Custom sizes, materials, colors, and patterns available.",
+      "scarves": "Elegant fashion scarves and wraps in silk, cotton, and blends. OEM/ODM designs with low MOQ."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your Trusted Textile Partner",
+    "intro": "Based in the heart of China's textile hub, we specialize in high-quality home textiles and fashion accessories for global B2B buyers. With strong local supply chain networks and professional sourcing & QC teams, we deliver reliable, cost-effective solutions.",
+    "factory": "Our Supply Chain",
+    "factoryDesc": "Long-term partners with 10+ audited factories in the textile district. Annual capacity exceeds 2 million pieces with flexible production to meet your demands.",
+    "team": "Our Team",
+    "services": {
+      "source": { "title": "Source", "desc": "We scout and vet the best factories for your needs." },
+      "inspect": { "title": "Inspect", "desc": "On-site quality checks before every shipment." },
+      "ship": { "title": "Ship", "desc": "Reliable FOB logistics to your destination port." },
+      "support": { "title": "Support", "desc": "Dedicated communication — we reply within hours." }
+    },
+    "teamDesc": "Experienced sourcing team with in-depth local knowledge, ensuring strict quality control from material selection to final shipment.",
+    "stats": [
+      { "label": "Years Experience", "value": "15+" },
+      { "label": "Export Countries", "value": "30+" },
+      { "label": "Partner Factories", "value": "10+" },
+      { "label": "Client Satisfaction", "value": "98%" }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications & Quality Standards",
+    "subtitle": "Our commitment to quality and compliance",
+    "ctaText": "Need specific certification documentation? We can provide certificates upon request.",
+    "ctaButton": "Request Certificates",
+    "items": [
+      {
+        "name": "ISO 9001:2015",
+        "desc": "Quality management system certification ensuring consistent product quality and customer satisfaction."
+      },
+      {
+        "name": "OEKO-TEX Standard 100",
+        "desc": "Certified free from harmful substances. Essential for European market access."
+      },
+      {
+        "name": "CE Marking",
+        "desc": "Compliance with EU health, safety, and environmental requirements."
+      },
+      {
+        "name": "SGS Testing",
+        "desc": "Third-party quality verification and product testing reports available."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you. Send us a message and we'll reply within 24 hours.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "phone": "Phone (Optional)",
+      "productInterest": "Product Interest",
+      "message": "Your Message",
+      "productInterestPlaceholder": "Select a product category...",
+      "productInterestOption1": "Throw Pillows / Home Series",
+      "productInterestOption2": "Fashion Scarves / Accessories",
+      "productInterestOption3": "Both Categories",
+      "productInterestOption4": "Other / Custom Inquiry",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Message sent successfully! We will get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again or contact us via WhatsApp."
+    },
+    "whatsapp": "Chat on WhatsApp",
+    "responseTime": "We typically respond within 1-2 business hours.",
+    "email": "Email Us",
+    "address": "Guangzhou, Guangdong, China"
+  },
+  "footer": {
+    "companyDesc": "Professional sourcing partner specializing in home textiles and fashion accessories. We connect global buyers with premium factories while handling QC, logistics, and communication — so you can focus on your business.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "copyright": "© 2026 All Rights Reserved."
+  }
+}
