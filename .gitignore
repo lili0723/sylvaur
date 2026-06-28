@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# personal docs
+TRANSLATION-AUDIT.md
+public/images/README.md
+next-sitemap.config.js
+CLAUDE.md
+AGENTS.md
+README.md

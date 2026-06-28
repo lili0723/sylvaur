@@ -140,7 +140,8 @@
       "submit": "Nachricht Senden",
       "submitting": "Wird Gesendet...",
       "success": "Nachricht erfolgreich gesendet! Wir werden uns innerhalb von 24 Stunden bei Ihnen melden.",
-      "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns per WhatsApp."
+      "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns per WhatsApp.",
+      "sendAnother": "Weitere Nachricht senden"
     },
     "whatsapp": "Chat auf WhatsApp",
     "responseTime": "Wir antworten in der Regel innerhalb von 1-2 Stunden während der Geschäftszeiten.",

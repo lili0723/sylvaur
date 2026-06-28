@@ -140,7 +140,8 @@
       "submit": "Kirim Pesan",
       "submitting": "Mengirim...",
       "success": "Pesan berhasil dikirim! Kami akan menghubungi Anda dalam 24 jam.",
-      "error": "Terjadi kesalahan. Silakan coba lagi atau hubungi kami melalui WhatsApp."
+      "error": "Terjadi kesalahan. Silakan coba lagi atau hubungi kami melalui WhatsApp.",
+      "sendAnother": "Kirim pesan lain"
     },
     "whatsapp": "Chat di WhatsApp",
     "responseTime": "Kami biasanya merespons dalam 1-2 jam selama jam kerja.",

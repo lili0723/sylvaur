@@ -140,7 +140,8 @@
       "submit": "Enviar Mensaje",
       "submitting": "Enviando...",
       "success": "¡Mensaje enviado con éxito! Le contactaremos dentro de las 24 horas.",
-      "error": "Algo salió mal. Por favor intente de nuevo o contáctenos por WhatsApp."
+      "error": "Algo salió mal. Por favor intente de nuevo o contáctenos por WhatsApp.",
+      "sendAnother": "Enviar otro mensaje"
     },
     "whatsapp": "Chatear en WhatsApp",
     "responseTime": "Normalmente respondemos dentro de 1-2 horas en horario laboral.",

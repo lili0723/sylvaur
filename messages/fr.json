@@ -140,7 +140,8 @@
       "submit": "Envoyer le Message",
       "submitting": "Envoi en Cours...",
       "success": "Message envoyé avec succès ! Nous vous recontacterons sous 24 heures.",
-      "error": "Une erreur s'est produite. Veuillez réessayer ou nous contacter via WhatsApp."
+      "error": "Une erreur s'est produite. Veuillez réessayer ou nous contacter via WhatsApp.",
+      "sendAnother": "Envoyer un autre message"
     },
     "whatsapp": "Chatter sur WhatsApp",
     "responseTime": "Nous répondons généralement dans les 1 à 2 heures pendant les heures ouvrables.",

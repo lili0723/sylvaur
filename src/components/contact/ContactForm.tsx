@@ -82,7 +82,7 @@ export default function ContactForm() {
           onClick={() => setStatus("idle")}
           className="mt-4 text-sm text-brand-coral hover:underline"
         >
-          Send another message
+          {t("sendAnother")}
         </button>
       </div>
     );
